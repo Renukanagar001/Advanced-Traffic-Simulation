@@ -25,5 +25,5 @@ The goal of this project is to build an intelligent traffic control system that 
 3. Explore the traffic dashboard and simulation.
 
 👨‍💻 **Author**
-Developed by Rohit Suthar  
+Developed by Rohit Suthar and Renuka Nagar  
 *(For educational and demonstration purposes)*
